@@ -1,0 +1,19 @@
+{
+  "name": "nodegrid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "tsc --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^12.0.8",
+    "easymidi": "^1.0.1",
+    "monome-grid": "^1.0.2",
+    "nodemon": "^1.19.1",
+    "typescript": "^3.5.2"
+  }
+}
