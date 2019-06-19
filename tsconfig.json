@@ -8,6 +8,7 @@
         "outDir": "output"
     },
     "files": [
-        "stupidsequencer.ts"
+        "stupidsequencer.ts",
+        "earthc.ts"
     ]
 }

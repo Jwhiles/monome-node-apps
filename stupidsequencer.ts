@@ -174,3 +174,6 @@ run();
 // drunk playback of the different scale patterns?
 // ways to control the scale patterns?
 // send each row to a different midi channel?
+
+export {};
+// this is needed to stop typescript getting sad
